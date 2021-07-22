@@ -12,10 +12,11 @@ light weight programing language,we can serve effectively.
 eliminates waiting,&simply continues nxt request.
 advantage is js language is used for both frontend & backend
 we can create http server
-modules:it contains a collections of javascript file.
+modules/package:it contains a collections of javascript file,contains predefined 
 there are 3 types of modules:
 1.inbuilt/core module
 2.3rd party module
 3.custom/local module
 core module:at the time of installing the node.js
+3rd party:centralised repostiory for js library,they deploy codes in library.(npmjs.com)
 
