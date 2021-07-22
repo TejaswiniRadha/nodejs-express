@@ -1,4 +1,4 @@
-const { Console } = require("console");
+/*const { Console } = require("console");
 const os=require("os");//es5
 const { CLIENT_RENEG_LIMIT } = require("tls");
 //import os from "os";//es6
@@ -9,4 +9,5 @@ console.log(os.freemem());
 console.log(os.arch());
 console.log(os.homedir());
 console.log(os.version());
-console.log(os.tmpdir());
+console.log(os.tmpdir());*/
+let user={name:"tejaswini",emailid:"teju.nama@gmail.com",password:"tejaswini"};
