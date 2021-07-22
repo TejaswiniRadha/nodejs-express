@@ -1,0 +1,21 @@
+node js is ajavascript runtime environment built on chrome v8 engine.
+it is not a framework/library.
+node js is an opensource server environment.
+it is used for server side applications in js.
+node is  a runtime,express is a web.
+written in c++ language.
+why nodejs:
+it is a asyncronous programing.
+fast and highly scalable.(servers more request-scalable)
+asyncronous&non-blocking
+light weight programing language,we can serve effectively.
+eliminates waiting,&simply continues nxt request.
+advantage is js language is used for both frontend & backend
+we can create http server
+modules:it contains a collections of javascript file.
+there are 3 types of modules:
+1.inbuilt/core module
+2.3rd party module
+3.custom/local module
+core module:at the time of installing the node.js
+
