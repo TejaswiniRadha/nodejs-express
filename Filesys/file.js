@@ -1,6 +1,6 @@
-/* //es5 syntax
+ //es5 syntax
 const fs =require("fs");
-/* let data = fs.readFileSync("classnote.txt","utf-8");
+let data = fs.readFileSync("classnote.txt","utf-8");
 console.log(data); 
 fs.readFile("classnote.txt","utf-8",(err,data)=>{
     console.log(data);
@@ -10,7 +10,7 @@ fs.readFile("classnote.txt","utf-8",(err,data)=>{
 const fs=require("fs");
 let data = fs.readFileSync("classnote.txt","utf-8");
 console.log(data);
-//read the fileasyncronous*/
+//read the fileasyncronous
 //const fs=require("fs");
 //const { CLIENT_RENEG_LIMIT } = require("tls");
 //let newdata=fs.readFile("classnote.txt","utf-8",(err,newdata)=>{
